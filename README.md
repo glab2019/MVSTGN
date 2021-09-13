@@ -1,4 +1,4 @@
-# Source code for our paper entitled "MVSTGN: A Multi-View Spatial-Temporal Graph Network for Cellular Traffic Prediction"
+# Source code for paper entitled "MVSTGN: A Multi-View Spatial-Temporal Graph Network for Cellular Traffic Prediction"
 ## Requirments
 System: Ubuntu 16.04 LTS with 1080Ti (GPU) 
 
